@@ -14,3 +14,7 @@ The source code contains different modules for the following chapters:
 2. Chapter 3 - Unification.
 
     a. Module name: **unification**.
+
+3. Chapter 4 - Abstract and Self Types.
+
+    a. Module name: **abstract-types**.
