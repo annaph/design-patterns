@@ -18,3 +18,7 @@ The source code contains different modules for the following chapters:
 3. Chapter 4 - Abstract and Self Types.
 
     a. Module name: **abstract-types**.
+
+5. Chapter 5 - Aspect Oriented Programming and Components.
+
+    a. Module name: **aop**.
