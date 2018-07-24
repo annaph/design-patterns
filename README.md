@@ -19,6 +19,10 @@ The source code contains different modules for the following chapters:
 
     a. Module name: **abstract-types**.
 
-5. Chapter 5 - Aspect Oriented Programming and Components.
+5. Chapter 5 - Aspect-Oriented Programming and Components.
 
     a. Module name: **aop**.
+
+6. Chapter 6 - Creational Design Patterns.
+
+    a. Module name: **creational-design-patterns**.
