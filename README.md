@@ -26,3 +26,7 @@ The source code contains different modules for the following chapters:
 6. Chapter 6 - Creational Design Patterns.
 
     a. Module name: **creational-design-patterns**.
+	
+7. Chapter 7 - Structural Design Patterns.
+
+    a. Module name: **structural-design-patterns**.
