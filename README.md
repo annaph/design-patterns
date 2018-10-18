@@ -7,15 +7,19 @@ This repository contains the code that goes with the **Scala Design Patterns** b
 
 The source code contains different modules for the following chapters:
 
-1. Chapter 2 - Traits and Mixin Compositions.
+1. Chapter 1 - The Design Patterns Out There and Setting Up Your Environment.
+
+    There is no code for this chapter. It provided the users with some skeletons.
+
+2. Chapter 2 - Traits and Mixin Compositions.
 
     a. Module name: **traits**.
 
-2. Chapter 3 - Unification.
+3. Chapter 3 - Unification.
 
     a. Module name: **unification**.
 
-3. Chapter 4 - Abstract and Self Types.
+4. Chapter 4 - Abstract and Self Types.
 
     a. Module name: **abstract-types**.
 
@@ -30,3 +34,7 @@ The source code contains different modules for the following chapters:
 7. Chapter 7 - Structural Design Patterns.
 
     a. Module name: **structural-design-patterns**.
+	
+8. Chapter 8 - Behavioral Design Patterns - Part 1.
+
+    a. Module name: **behavioral-design-patterns**.
