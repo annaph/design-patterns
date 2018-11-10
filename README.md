@@ -38,3 +38,7 @@ The source code contains different modules for the following chapters:
 8. Chapter 8 - Behavioral Design Patterns - Part 1.
 
     a. Module name: **behavioral-design-patterns**.
+
+9. Chapter 9 - Behavioral Design Patterns - Part 2.
+
+    a. Module name: **behavioral-design-patterns**.
