@@ -42,3 +42,7 @@ The source code contains different modules for the following chapters:
 9. Chapter 9 - Behavioral Design Patterns - Part 2.
 
     a. Module name: **behavioral-design-patterns**.
+
+10. Chapter 10 - Functional Design Patterns – The Deep Theory.
+
+    a. Module name: **deep-theory**.
