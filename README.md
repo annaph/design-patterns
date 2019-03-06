@@ -46,3 +46,7 @@ The source code contains different modules for the following chapters:
 10. Chapter 10 - Functional Design Patterns – The Deep Theory.
 
     a. Module name: **deep-theory**.
+
+11. Chapter 11 - Functional Design Patterns – Applying What We Learned.
+
+    a. Module name: **functional-design-patterns**.
