@@ -1,0 +1,10 @@
+{
+  "name": "Ping Facebook command",
+  "command": "ping facebook.com -c 12",
+  "frequency": "Hourly",
+  "type": "Console",
+  "time_options": {
+    "hours": 23,
+    "minutes": 6
+  }
+}

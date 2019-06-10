@@ -1,0 +1,10 @@
+{
+  "name": "Ping Google Command",
+  "command": "ping google.com -c 12",
+  "frequency": "Hourly",
+  "type": "Console",
+  "time_options": {
+    "hours": 23,
+    "minutes": 3
+  }
+}

@@ -50,3 +50,9 @@ The source code contains different modules for the following chapters:
 11. Chapter 11 - Functional Design Patterns – Applying What We Learned.
 
     a. Module name: **functional-design-patterns**.
+
+12. Chapter 12 - Real Life Applications.
+
+    a. Module name: **real-life-applications**.
+    
+    b. Module name: **job-scheduler**.
